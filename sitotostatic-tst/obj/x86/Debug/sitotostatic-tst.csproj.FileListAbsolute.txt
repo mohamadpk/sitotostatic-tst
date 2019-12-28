@@ -1,0 +1,14 @@
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\bin\x86\Debug\sitotostatic-tst.exe.config
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\bin\x86\Debug\sitotostatic-tst.exe
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\bin\x86\Debug\sitotostatic-tst.pdb
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\bin\x86\Debug\Geckofx-Core.dll
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\bin\x86\Debug\Geckofx-Winforms.dll
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\bin\x86\Debug\Geckofx-Core.pdb
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\bin\x86\Debug\Geckofx-Winforms.pdb
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\obj\x86\Debug\sitotostatic_tst.Form1.resources
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\obj\x86\Debug\sitotostatic_tst.Properties.Resources.resources
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\obj\x86\Debug\sitotostatic-tst.csproj.GenerateResource.cache
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\obj\x86\Debug\sitotostatic-tst.csproj.CoreCompileInputs.cache
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\obj\x86\Debug\sitotostatic-tst.csproj.CopyComplete
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\obj\x86\Debug\sitotostatic-tst.exe
+C:\Users\mohamadpk\Documents\Visual Studio 2017\Projects\sitotostatic-tst\sitotostatic-tst\obj\x86\Debug\sitotostatic-tst.pdb
